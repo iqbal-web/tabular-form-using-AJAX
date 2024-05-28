@@ -16,9 +16,9 @@ This project fetches and displays a list of US Presidents in an HTML table using
 
 ### Project Structure
 
-├── index.html
-├── /js/main.js
-└── /css/style.css
+`├── index.html`
+`├── /js/main.js`
+`└── /css/style.css`
 
 ### Files
 
